@@ -89,7 +89,7 @@ streamlit run frontend/smart_dashboard.py
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 ```
 app/
  ├── api/             # FastAPI routers
@@ -102,7 +102,7 @@ frontend/
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 - `POST /chat/ask` → Smart city Q&A  
 - `POST /policy/summarize` → Summarize policy text  
 - `GET /eco/tips?topic=` → Eco tips  
@@ -113,7 +113,7 @@ frontend/
 
 ---
 
-## 🧪 Testing
+##  Testing
 - Unit tests for LLM prompts  
 - API tests (Swagger, Postman)  
 - Manual UI testing (frontend flows)  
@@ -121,7 +121,7 @@ frontend/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Role-based access (Admin, Citizen, Researcher)  
 - Real-time IoT sensor integration   
 - Multilingual support (IBM Watson Translator)  
