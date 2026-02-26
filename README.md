@@ -1,11 +1,11 @@
-# Sustainable Smart City Assistant 🚀
+# Sustainable Smart City Assistant 
 
 The **Sustainable Smart City Assistant** empowers cities and citizens to thrive in an eco-conscious and connected urban environment.  
 It leverages **IBM Watsonx Granite LLMs**, **Pinecone vector database**, and **real-time analytics** to optimize resources and deliver actionable sustainability insights.
 
 ---
 
-## ✨ Features
+## Features
 - **Conversational Chat Assistant** – Natural language Q&A powered by IBM Watsonx Granite.  
 - **Policy Summarization** – Converts lengthy government documents into concise, actionable summaries.  
 - **Eco Tip Generator** – Personalized sustainability advice.  
@@ -19,7 +19,7 @@ It leverages **IBM Watsonx Granite LLMs**, **Pinecone vector database**, and **r
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 **Frontend (Streamlit):**
 - Sidebar navigation for Chat, Policy Summarizer, Eco Tips, KPI Dashboard, Reports.  
@@ -42,7 +42,7 @@ It leverages **IBM Watsonx Granite LLMs**, **Pinecone vector database**, and **r
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Python 3.9+  
@@ -123,16 +123,7 @@ frontend/
 
 ## 🚀 Future Enhancements
 - Role-based access (Admin, Citizen, Researcher)  
-- Real-time IoT sensor integration  
-- Geo-mapping with sustainability layers  
+- Real-time IoT sensor integration   
 - Multilingual support (IBM Watson Translator)  
-
----
-
-## 👨‍💻 Contributors
-- Rahman Khan A  
-- Sanjai S  
-- Prajin  
-- Sanjairam  
 
 ---
